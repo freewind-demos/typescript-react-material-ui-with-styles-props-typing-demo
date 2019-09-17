@@ -1,5 +1,7 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript React Material UI with Styles Props Typing Demo
+==========================================================
+
+当使用`withStyles`来装饰一个component时，component的typing是否还有效？
 
 ```
 npm install
